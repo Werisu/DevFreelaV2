@@ -19,8 +19,8 @@
 
   <ItemGroup>
     <Folder Include="Commands\Skills\" />
-    <Folder Include="Queries\GetProjectById\" />
-    <Folder Include="Queries\GetUser\" />
+    <Folder Include="Services\Implementations\" />
+    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
 
 </Project>
